@@ -1,0 +1,10 @@
+
+.wrapper div {
+  border: 5px solid red;
+  width: 150px;
+  height: 140px;
+  float: left;
+  margin: 10px;
+  text-align: center;
+
+}
